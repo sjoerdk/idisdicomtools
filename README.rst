@@ -2,14 +2,6 @@
 IDIS DICOM tools
 ================
 
-.. image:: https://github.com/sjoerdk/idisdicomtools/workflows/build/badge.svg
-        :target: https://github.com/sjoerdk/idisdicomtools/actions?query=workflow%3Abuild
-        :alt: Build Status
-
-.. image:: https://img.shields.io/pypi/v/idisdicomtools.svg
-        :target: https://pypi.python.org/pypi/idisdicomtools
-
-
 Implementations of DICOM network services that support IDIS (Image DeIdentification Service)
 
 
